@@ -1,6 +1,6 @@
 {
   "name": "imagineui",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "CLI tool to generate wireframes from a localized human-readable format",
   "main": "src/index.ts",
   "scripts": {
